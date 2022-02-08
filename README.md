@@ -1,6 +1,6 @@
 ### Salam 👋
 # Introduction ✔
-Un jeune marocain agé de 14 ans. 🇲🇦
+Un jeune marocain agé de 14 ans. 🚲
 
 # Occupations ✔
 - 💻 Passionné de programation, de cybersécurité et de sommeil (lol).
