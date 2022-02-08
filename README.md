@@ -1,16 +1,14 @@
-### Hi there 👋
+### Salam 👋
+# Introduction ✔
+Un jeune marocain agé de 14 ans.
 
-<!--
-**Formu-Git/Formu-Git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Occupations ✔
+- 💻 Passionné de programation, de cybersécurité et de sommeil (lol).
+- 🎮 Joueur pro Roblox.
+- 🍩 J'aime manger.
 
-Here are some ideas to get you started:
+# Réseaux sociaux
+<a Twitter href="google.com">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
