@@ -8,5 +8,5 @@
 - 🍩 J'aime manger.
 
 # Réseaux ✔
-- 🎈 <a href="https://https://twitter.com/REDA_AMEZ">Twitter</a> 
+- 🎈 <a href="https://twitter.com/REDA_AMEZ">Twitter</a> 
 - 🎈 Formulaire.#1578 
