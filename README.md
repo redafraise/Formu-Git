@@ -7,8 +7,6 @@ Un jeune marocain agé de 14 ans.
 - 🎮 Joueur pro Roblox.
 - 🍩 J'aime manger.
 
-# Réseaux sociaux
-- <a href="https://https://twitter.com/REDA_AMEZ">Twitter</a> 🎈
-- Formulaire.#1578
-
-
+# Réseaux 
+- 🎈 <a href="https://https://twitter.com/REDA_AMEZ">Twitter</a> 
+- 🎈 Formulaire.#1578 
