@@ -3,7 +3,7 @@
 - 🎯 Un jeune marocain agé de 15 ans. 
 
 # Occupations ✔
-- 💻 Passionné de programation zt de cybersécurité.
+- 💻 Passionné de programation, de cybersécurité et de parcours.
 - 🎮 Joueur Minecraft.
 - 🍩 J'aime les fraises.
 
