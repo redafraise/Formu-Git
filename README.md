@@ -1,12 +1,12 @@
 ### Salam 👋
 # Introduction ✔
-- 🎯 Un jeune marocain agé de 14 ans. 
+- 🎯 Un jeune marocain agé de 15 ans. 
 
 # Occupations ✔
-- 💻 Passionné de programation, de cybersécurité et de sommeil.
-- 🎮 Joueur pro Roblox.
-- 🍩 J'aime manger.
+- 💻 Passionné de programation zt de cybersécurité.
+- 🎮 Joueur Minecraft.
+- 🍩 J'aime les fraises.
 
 # Réseaux ✔
 - 🎈 <a href="https://twitter.com/REDA_AMEZ">Twitter</a> 
-- 🎈 Formu.#1578 
+- 🎈 ;formu#1578 
