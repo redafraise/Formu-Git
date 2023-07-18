@@ -6,5 +6,4 @@ I'm passionate about computer sciences and mathematics, in my free time i do som
 I have lot of coding projects that I want to create and that's why I practice a lot to become better, i will share whatever i do in my github if you are interested by that you can follow me.
 
 # If you want to contact me 🎯
-- 🎈 <a href="https://twitter.com/redafraise">Twitter</a> 
-- 🎈 .formu#1578 
+- 🎈 formufraise
