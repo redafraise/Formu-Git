@@ -6,4 +6,6 @@
 <br >I have lot of coding projects that I want to create and that's why I practice a lot to become better, i will share whatever i do in my github if you are interested by that you can follow me. <br />
 
 # If you want to contact me 🎯
-- 🎈 formufraise
+- 🎈 discord: formufraise
+- 🎈 twitter: @redafraise
+
